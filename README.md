@@ -6,7 +6,7 @@ My recent work focuses on backend systems, release intelligence, full-stack prod
 
 ## Featured Public Work
 
-### TracePilot
+### [TracePilot](https://github.com/sutejym122/TracePilot)
 Release intelligence and observability platform for small engineering teams.
 
 Built with FastAPI, PostgreSQL, SQLAlchemy, React, TypeScript, Docker, Render, Vercel, and Neon.
@@ -16,13 +16,13 @@ Built with FastAPI, PostgreSQL, SQLAlchemy, React, TypeScript, Docker, Render, V
 - Includes seeded demo data, API docs, screenshots, and local Docker setup
 - Designed like an internal engineering tool, not a basic CRUD app
 
-### Forensic Face Sketch
+### [Forensic Face Sketch](https://github.com/sutejym122/Forensic-Face-Sketch)
 Forensic sketch construction and face recognition system using JavaFX, AWS S3, and AWS Rekognition.
 
-### FitForge iOS
+### [FitForge iOS](https://github.com/sutejym122/FitForge-iOS)
 Native iOS fitness app foundation built with Swift, Xcode, XCTest, and UI testing.
 
-### Portfolio
+### [Portfolio](https://github.com/sutejym122/Portfolio)
 Developer portfolio built with React, Three.js, Vite, and Tailwind CSS to showcase projects, experience, and engineering work.
 
 ## Private Work
@@ -45,4 +45,5 @@ Python · C++ · JavaScript · TypeScript · Swift · FastAPI · React · Postgr
 ## Contact
 
 - Email: syadavanahal@binghamton.edu
+- Portfolio: https://portfolio-sutejs-projects.vercel.app
 - GitHub: @sutejym122
